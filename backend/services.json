@@ -1,0 +1,5 @@
+[
+  { "name": "Auth Service", "status": "online" },
+  { "name": "Payments API", "status": "degraded" },
+  { "name": "Image CDN", "status": "offline" }
+]
